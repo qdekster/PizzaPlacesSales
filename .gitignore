@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PPSalesAPISoln/PPSalesAPI/bin
+/PPSalesAPISoln/PPSalesAPI/obj
+/PPSalesAPISoln/.vs/PPSalesAPISoln/config/applicationhost.config
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex/0901d924-1df8-4256-8c3a-6b9e9d975361.vsidx
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex/344a1879-55de-44b6-aca3-e82b964b7110.vsidx
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex/39df1aaf-1005-4e87-a75e-f39e60b3ffb0.vsidx
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex/4e0ebf03-de13-4500-b6a4-9ba687acfc88.vsidx
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex/ee9c4600-2993-4444-bf0a-033b1a61f46b.vsidx
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/TestStore/0/000.testlog
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/TestStore/0/testlog.manifest
+/PPSalesAPISoln/.vs/PPSalesAPISoln/DesignTimeBuild/.dtbcache.v2
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/.futdcache.v2
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/.suo
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/DocumentLayout.json
+/PPSalesAPISoln/.vs/ProjectEvaluation/ppsalesapisoln.metadata.v8.bin
+/PPSalesAPISoln/.vs/ProjectEvaluation/ppsalesapisoln.projects.v8.bin
+/PPSalesAPISoln/.vs/ProjectEvaluation/ppsalesapisoln.strings.v8.bin
