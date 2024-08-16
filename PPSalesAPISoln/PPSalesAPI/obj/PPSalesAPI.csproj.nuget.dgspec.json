@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dekster\\source\\repos\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj": {}
+    "C:\\Users\\dekster\\source\\repos\\qdekster\\PizzaPlacesSales\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dekster\\source\\repos\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj": {
+    "C:\\Users\\dekster\\source\\repos\\qdekster\\PizzaPlacesSales\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dekster\\source\\repos\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\dekster\\source\\repos\\qdekster\\PizzaPlacesSales\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj",
         "projectName": "PPSalesAPI",
-        "projectPath": "C:\\Users\\dekster\\source\\repos\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj",
+        "projectPath": "C:\\Users\\dekster\\source\\repos\\qdekster\\PizzaPlacesSales\\PPSalesAPISoln\\PPSalesAPI\\PPSalesAPI.csproj",
         "packagesPath": "C:\\Users\\dekster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dekster\\source\\repos\\PPSalesAPISoln\\PPSalesAPI\\obj\\",
+        "outputPath": "C:\\Users\\dekster\\Source\\Repos\\qdekster\\PizzaPlacesSales\\PPSalesAPISoln\\PPSalesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dekster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,24 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.ResponseCaching": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
