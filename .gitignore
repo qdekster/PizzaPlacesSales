@@ -2,3 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/PizzaPlacesSales/FileContentIndex
+/.vs/PizzaPlacesSales/v17
+/PPSalesAPISoln/.vs/PPSalesAPISoln/DesignTimeBuild
+/PPSalesAPISoln/.vs/PPSalesAPISoln/FileContentIndex
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17/TestStore/0
+/PPSalesAPISoln/.vs/PPSalesAPISoln/v17
+/PPSalesAPISoln/.vs/ProjectEvaluation
+/PPSalesAPISoln/PPSalesAPI/bin/Debug/net8.0
